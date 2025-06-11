@@ -1,0 +1,3 @@
+pdf ---> extract text ---> tell the table header ----> extract ---> display in froent end
+
+pdf ---> extract table directly some how
