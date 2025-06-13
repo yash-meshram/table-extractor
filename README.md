@@ -92,6 +92,14 @@ The application is designed to extract tables with the following columns:
 3. **Table Detection**: The AI model identifies and structures the table data
 4. **Excel Generation**: The extracted data is formatted and saved as an Excel file with multiple sheets
 
+### Application Diagram
+
+![Application Diagram](./diagram/table_extractor_diagram.png)
+
+### Sequence Diagram
+
+![Sequence Diagram](./diagram/table_extractor_sequenceDiagram.png)
+
 ## Dependencies
 
 - streamlit
